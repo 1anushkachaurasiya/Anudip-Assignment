@@ -3,8 +3,8 @@ public class Matrix {
 
 	public static void main(String[] args) {
 		int rows=2,col=3;
-		int [][]arr1 = {{1,4,4},{1,2,3}};
-		int [][]arr2 = {{-4,5,3},{5,9,9}};
+		int [][]arr1 = {{3,4,5},{6,7,8}};
+		int [][]arr2 = {{2,1,3},{5,4,6}};
 		
 		AddTwoMatrix(arr1,arr2,rows,col);
 
